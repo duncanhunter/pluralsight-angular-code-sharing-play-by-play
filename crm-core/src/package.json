@@ -1,0 +1,28 @@
+{
+  "name": "@dunchunter/crm-core",
+  "version": "0.1.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duncanhunter/crm-core"
+  },
+  "author": {
+    "name": "Duncan Hunter",
+    "email": "duncan@duncanhunter.com.au"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duncanhunter/crm-core/issues"
+  },
+  "main": "crm-core.umd.js",
+  "module": "crm-core.js",
+  "jsnext:main": "crm-core.js",
+  "typings": "crm-core.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
